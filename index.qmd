@@ -1,0 +1,96 @@
+---
+title: "The Human Cost of Migration in the Americas"
+---
+
+<style>
+figure figcaption {
+  font-size: 0.7em;
+  color: #666;
+}
+
+p strong {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.figure-caption {
+  font-size: 0.9m;
+  color: #666;
+  display: block;
+  margin: 0.5em 0 1.5em 0;
+}
+
+.credit-caption {
+  font-size: 0.8em;
+  color: #888;
+  display: block;
+  text-align: center;
+  margin-top: -1em;
+  margin-bottom: 2em;
+}
+</style>
+
+![Mother and child](images/arifur-rahman-J6MaRSBIkI4-unsplash.jpg){fig-align="center" width="60%"}
+
+<span class="credit-caption">_[Arifur Rahman](https://unsplash.com/@tuser08) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-woman-holding-a-child-J6MaRSBIkI4)_</span>
+
+<div class="hero-quote">
+  "I am not a criminal. I am only a mother."
+  <span class="attribution">– Alisa Domingo</span>
+</div>
+
+Alisa's words cut through the noise and stereotypes surrounding migration [@domingo_loeza_2025]. Her story is one of thousands-people who leave everything behind seeking safety and a better future for their families. Yet, despite their hopes, these journeys are fraught with danger.
+
+In January 2024 alone, over 250 migrants died or went missing across the Americas-the deadliest month on record [@IOM2024]. These numbers are not just statistics; they represent mothers, fathers, children, and individuals like Alisa, whose lives hang in the balance or have been tragically lost. Understanding this human cost is essential to grasping the scale and urgency of the migration crisis today.
+
+
+## Regions and Incidents
+
+<div class="map-container" style="width: 100%; margin: 2em 0; padding: 0 1em; background-color: #f8f9fa;">
+  <iframe src="visualizations/map.html" style="width: 100%; height: 800px; border: none; border-radius: 8px;"></iframe>
+</div>
+
+<span class="figure-caption">**Figure 1:** Each point represents an incident where migrants were reported missing or deceased. The size of the circle indicates the density of casualties. Click on points for detailed information.</span>
+
+
+### Temporal patterns: Incidents of migrants casualties by region
+While the map highlights where these tragic incidents occur, it's also important to understand how the scale of the crisis has changed over time. The following chart illustrates trends in reported deaths and disappearances across different regions of the Americas, revealing how risks have evolved in recent years. 
+
+North America consistently accounts for the highest number of cases, with notable increases in recent years. Central America, the Caribbean, and South America also show persistent and, at times, rising numbers, reflecting the widespread risks faced by migrants throughout the region. This trend highlights the ongoing and growing dangers associated with migration routes across the Americas.
+
+<img src="visualizations/yearly_region_plot.png" 
+     alt="Incidents of missing or dead migrants over time by region" 
+     style="display: block; margin: 40px auto; max-width: 80%; padding: 20px 0;">
+
+<span class="figure-caption">**Figure 2:** The data reveals a concerning upward trend in migrant deaths and disappearances over the past decade. Each number represents a life lost, a family shattered, and a community forever changed.</span>
+
+
+To better capture recent developments and short-term fluctuations, the next chart breaks down these incidents by month. This view reveals not only long-term trends but also seasonal patterns and sudden spikes in migrant deaths and disappearances across the Americas. The recent spike in January 2024 represents the deadliest month on record, with over 250 lives lost.
+
+  <iframe src="visualizations/monthly_deaths.html" width="100%" height="500" style="border:none;"></iframe>
+
+<span class="figure-caption">**Figure 3:** The interactive graph above shows the monthly toll of migrant deaths and disappearances. Use your mouse to hover over the points to see the exact number of deaths and disappearances for each month. The red line represents the raw data, while the blue line shows the smoothed trend.</span>
+
+::: {.callout-note title="Key Findings"}
+- The US-Mexico border remains the deadliest crossing, accounting for 75% of all incidents.
+- The Darién Gap between Colombia and Panama (the land bridge between Central and South America) has seen a surge in deaths, becoming the third most dangerous route.
+- Despite increased awareness, the number of deaths continues to rise.
+:::
+
+### Factors Driving the Increase
+
+Several interconnected factors contribute to the rising death toll:
+
+1. **Policy Changes:** Stricter border policies often push migrants toward more dangerous routes
+2. **Climate Impact:** Extreme weather events make crossings more hazardous
+3. **Economic Pressures:** Growing economic disparities drive more people to attempt dangerous journeys
+4. **Political Instability:** Unrest in various countries forces more people to flee
+
+---
+
+<div style="display: flex; justify-content: space-between; margin-top: 2em;">
+  <a href="about.qmd" class="btn btn-outline-secondary">&larr; About this Project</a>
+  <a href="journey-risks.qmd" class="btn btn-primary">Next: The Journey &rarr;</a>
+</div>
+
+

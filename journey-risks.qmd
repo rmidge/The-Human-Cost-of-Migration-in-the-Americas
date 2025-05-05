@@ -1,0 +1,84 @@
+---
+title: "The Deadliest Routes: Mapping the Journey"
+---
+
+> "Even though I went to university for five years, finding work outside my family business was difficult. We were battling one of the worst food crises in the world, struggling to even be able to pay for flour or a pack of spaghetti. <br> I felt suffocated and discouraged in Venezuela..."  
+> - Alisa Domingo
+
+The decision to migrate is never made lightly. For families like Alisa's, it often comes after exhausting all other options. The root causes of migration in the Americas are complex and interconnected, ranging from economic collapse to political instability and climate-related disasters [@IOM2024].
+
+
+Alisa's story begins in Venezuela, where economic collapse left her family with nothing [@domingo_loeza_2025]. She immigrated to Peru where she worked multiple jobs and continued to struggle to survive. Finally, she made the difficult decision to leave everything behind and seek a better life in the United States. The journey north is fraught with danger at every step. From the treacherous Darién Gap to the scorching deserts of the US-Mexico border, migrants face life-threatening challenges in their search for safety and opportunity.
+
+
+### Alisa's Interactive Journey Map
+
+<div class="map-container" style="width: 100%; margin: 2em 0; padding: 0 1em; background-color: #f8f9fa;">
+  <iframe src="visualizations/journey_map.html" style="width: 100%; height: 800px; border: none; border-radius: 8px;"></iframe>
+</div>
+<span class="figure-caption">**Figure 4:** Interactive journey map. The size of the markers indicates the risk level at each stage of the journey. Click on the points to learn more about the risks at each stage of the journey. Risk levels range from Minimal (1) to Severe (5), based on reported incidents and conditions along each route. <br> These risks are not static - they change with seasons, policies, and the evolving tactics of those who prey on vulnerable migrants. </span>
+
+::: {.callout-note}
+## Key Risk Factors
+- **Extreme Weather & Terrain:** Desert heat, mountainous regions, dangerous waters
+- **Access to Basic Services:** Availability of water, food, shelter, and medical care
+- **Border & Legal Risks:** Security measures, detention, deportation
+- **Violence & Trafficking:** Criminal activity, exploitation, assault
+:::
+
+
+### Regional Risk Profiles
+
+| Route            | Key Risks                        | Infrastructure | Seasonal Trends         |
+|------------------|----------------------------------|----------------|------------------------|
+| US-Mexico Border | Desert heat, criminal activity   | High           | Deadliest in summer    |
+| Darién Gap       | Jungle, wildlife, crime          | Minimal        | Consistent, rainy season|
+
+### The Darién Gap
+
+<div style="text-align: center; margin: 2em 0;">
+  <video autoplay muted playsinline loop style="width: 100%; max-width: 1000px; border-radius: 8px;">
+    <source src="images/DarienGap_Mud.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p style="font-size: 0.9em; color: #666; margin: 0.3em auto 0 auto; text-align: left; max-width: 1000px;">
+    Migrants navigate through dense jungle terrain on foot, as there are no roads. Many rely on local guides to help them traverse this dangerous passage. John Moore | Getty Images
+  </p>
+</div>
+
+![People on the move crossing through Ecuador, Colombia, and Panama. | Darién Gap 2023](images/JuanCarlosTomasi_MédecinsSansFrontières.jpg){fig-align="center" width="60%" fig-cap="People on the move crossing through Ecuador, Colombia, and Panama. | Darién Gap 2023"}
+
+<span class="credit-caption">_[Juan Carlos Tomasi](https://unsplash.com/@nhuenerfuerst) for [Médecins Sans Frontières](https://www.doctorswithoutborders.org/latest/journey-north)_</span>
+
+
+> "The jungle is known to have a curse, a curse of separating people. I knew how many people died on this journey and of the dangers that lay ahead, whether it was animals or murderers. I felt their blood on my feet with every step I took and I clung to my cousin and begged him to stay by my side, in fear of being left alone in this cursed jungle."  
+> - Alisa Domingo
+
+The Darién Gap is a notoriously remote and hazardous stretch of swampland and dense rainforest spanning about 62 miles along the border between Colombia and Panama. This region forms a critical, yet perilous, link in the migration route toward the United States [@IOM2024]. 
+
+Migrants from Africa, Asia, and the Caribbean often enter South America through countries with fewer visa restrictions, then travel north until they reach the Darién Gap. Crossing the Gap typically means trekking on foot for five to eight days through unforgiving jungle terrain, facing threats from the environment, wildlife, and criminal groups. Some with greater resources attempt to bypass part of the jungle by sea, shortening the overland journey to two or three days.
+
+Recent data from the [IOM](https://www.iom.int/migration-and-refugees/migration-data) shows that the Darién Gap has seen a surge in deaths, becoming the third most dangerous route. Many migrants, like Alisa, witness firsthand the tragic consequences—encountering the remains of those who did not survive. For most, the experience is harrowing and life-altering, a stark reminder of the risks faced by thousands who attempt this crossing each year.
+
+### The US-Mexico Border
+![US-Mexico Border](images/nils-huenerfuerst-YHB4mkgRvDQ-unsplash.jpg){fig-align="center" width="60%"}
+
+<span class="credit-caption">_[Nils Huenerfuerst](https://unsplash.com/@tuser08) on [Unsplash](https://unsplash.com/photos/a-long-metal-fence-in-the-middle-of-a-desert-YHB4mkgRvDQ)_</span>
+      
+> "I spent 16 days walking through Mexico with the traveling group. To avoid the beaming heat of the Mexican sun, we mostly walked at night. But then we were met with the stark cold rain. The worst part of my journey through Mexico was the fear. Sleep was nearly impossible because I always had to stay on high alert. There were rumors of kidnappings and murders on the trail we were on, which is why we always slept in groups of at least 15 people."  
+> - Alisa Domingo
+
+
+::: {.callout-important title="The US-Mexico Border: The Deadliest Route"}
+<span style="font-size:2em; font-weight:bold; color:#E41A1C;">75%</span> of all recorded migrant deaths and disappearances in the Americas occurred along the US-Mexico border.
+:::
+
+## Personal Stories: Beyond the Numbers
+
+### Alisa's Story
+After a long and difficult journey, Alisa found hope in the U.S., building a new life with her partner, Alex, and preparing for the birth of their daughter. Tragedy struck when Alex was killed, leaving Alisa to face motherhood alone. Despite immense loss and ongoing uncertainty about her immigration status, Alisa's resilience endures. Her story is a powerful reminder that behind every migration statistic is a human life, full of hope and courage.
+
+<div style="display: flex; justify-content: space-between; margin-top: 2em;">
+  <a href="index.qmd" class="btn btn-outline-secondary">&larr; Previous: Introduction</a>
+  <a href="conclusion.qmd" class="btn btn-primary">Next: Conclusion &rarr;</a>
+</div>

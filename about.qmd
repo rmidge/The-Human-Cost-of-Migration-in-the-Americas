@@ -1,0 +1,67 @@
+---
+title: "About"
+page-layout: full
+toc: false
+bibliography: references.bib
+---
+
+<style>
+.profile-container {
+  text-align: center;
+  padding: 1.5rem;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  margin-bottom: 2rem;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  border: 4px solid white;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.nav-footer {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  flex-wrap: wrap;
+}
+
+.nav-footer a {
+  padding: 0.5rem 1rem;
+  background-color: #e9ecef;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #2c3e50;
+}
+
+.nav-footer a:hover {
+  background-color: #dee2e6;
+}
+</style>
+
+**The Human Cost of Migration in the Americas** is a data-driven storytelling project that reveals the urgent realities faced by migrants across the Americas. Blending data analysis with the deeply personal journey of Alisa Domingo, this project brings to light the human stories behind the statistics of missing and deceased migrants.
+
+Through interactive maps, visualizations, and Alisa Domingo's personal story, this project reveals the scale and dangers of migration routes across the Americas. It explores why migrants risk these journeys, the legal barriers they face, and calls for urgent action to protect their dignity and lives.
+
+::: {.callout-note}
+**See the code:**  
+All data analysis and visualization code is available in the [IOM_Data_Analysis_Visuals.Rmd file](https://github.com/rmidge/deadly-crossings/blob/main/The%20Human%20Cost%20of%20Migration%20in%20the%20Americas/IOM_Data_Analysis_Visuals.Rmd).
+:::
+
+## Acknowledgments
+This project draws on data from the Missing Migrants Project [@IOM2024] and incorporates reporting from El Tímpano's powerful first-person narratives [@domingo_loeza_2025]. Special thanks to all migrants and communities whose stories bring vital human context to this critical issue.
+
+## About the author
+<div class="profile-container"> <img src="images/rachel.JPEG" alt="Rachel Midgett" class="profile-image"> <h2>Rachel Midgett</h2> <p>Master of Urban Spatial Analytics<br>University of Pennsylvania</p> <a href="https://github.com/rmidge" class="btn-link">GitHub Repository</a> </div>
+
+## References

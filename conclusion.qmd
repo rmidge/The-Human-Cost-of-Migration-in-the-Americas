@@ -1,0 +1,67 @@
+---
+title: "Responses & Conclusion"
+---
+
+## Conclusion: The Human Face of Migration
+
+> "We are not criminals. We are human beings seeking safety and opportunity. We deserve dignity and respect."  
+> - Alisa Domingo
+
+As we reflect on the data presented in this project, we must remember that behind every statistic is a person like Alisa. Her journey from Venezuela through the treacherous Darién Gap to the US-Mexico border represents the experiences of thousands who undertake this perilous path each year.
+
+The numbers tell a sobering story:
+
+::: {.callout-important title="The Human Cost in Numbers"}
+
+| Region           | Casualties | Share   |
+|------------------|-----------:|--------:|
+| North America    |      4,381 | 44.7%   |
+| Central America  |      2,952 | 30.2%   |
+| Caribbean        |      1,922 | 19.6%   |
+| South America    |        536 |  5.5%   |
+
+---
+
+Total Since 2014: **9,791 lives lost or missing**
+2024 (Year to Date): **830 casualties**
+Yearly Average: **816 casualties per year**
+
+---
+
+- Most Dangerous Route: US-Mexico Border (**75%** of all incidents)
+- Deadliest Month: January 2024 (**250+** casualties)
+
+:::
+
+
+
+Yet, these numbers cannot fully capture the human cost. They cannot convey the fear Alisa felt as she walked through the jungle, "feeling the blood of those who came before on her feet." They cannot express the pain of losing her partner Alex to gun violence, or the terror she felt when her daughter Ana's heart stopped beating for five minutes during birth. They cannot show the strength it takes to raise a child alone while facing an uncertain immigration status.
+
+### The Immigration Maze
+
+Alisa's story also reveals the complex and often arbitrary nature of the US immigration system. After surviving the dangerous journey through the Darién Gap and Mexico, she faced new challenges:
+
+- **The CBP One App:** Like many migrants, Alisa had to navigate the CBP One app system, calling the US consulate daily for updates while waiting in Mexico City
+- **Missed Deadlines:** Due to the trauma of losing her partner Alex and the complications of her pregnancy, she missed the deadline to apply for asylum
+- **Changing Policies:** The termination of protections for Venezuelan citizens left her in legal limbo
+- **Birthright Citizenship Concerns:** The threat to birthright citizenship puts her US-born daughter Ana at risk
+
+These bureaucratic hurdles highlight how even those who follow legal pathways can find themselves trapped in uncertainty, their futures dependent on shifting political winds rather than their contributions to society.
+
+### A Call to Action
+
+The solutions to this crisis are complex, but they begin with recognizing our shared humanity. We must:
+
+1. **Expand Legal Pathways:** Create more opportunities for safe, legal migration
+2. **Invest in Root Causes:** Address economic instability, climate change, and political unrest
+3. **Strengthen Humanitarian Response:** Increase funding and coordination for search and rescue operations
+4. **Protect Human Rights:** Ensure that all migrants are treated with dignity and respect
+
+
+The time to act is now. Together, we can create a future where no one has to risk her life in search of safety and opportunity. Where families can stay together, regardless of immigration status. Where every person's right to dignity and respect is recognized, and where the words "I am not a criminal, I am only a mother" are met with compassion rather than fear.
+
+<div style="display: flex; justify-content: space-between; margin-top: 2em;">
+  <a href="journey-risks.qmd" class="btn btn-outline-secondary">&larr; Previous: The Journey: Risks & Trends</a>
+  <a href="about.qmd" class="btn btn-primary">Next: About this Project &rarr;</a>
+</div>
+
