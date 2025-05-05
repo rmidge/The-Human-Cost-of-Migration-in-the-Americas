@@ -22,9 +22,9 @@ The numbers tell a sobering story:
 
 ---
 
-Total Since 2014: **9,791 lives lost or missing**
-2024 (Year to Date): **830 casualties**
-Yearly Average: **816 casualties per year**
+- Total Since 2014: **9,791 lives lost or missing**
+- 2024 (Year to Date): **830 casualties**
+- Yearly Average: **816 casualties per year**
 
 ---
 
