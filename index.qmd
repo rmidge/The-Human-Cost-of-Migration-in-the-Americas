@@ -30,7 +30,7 @@ p strong {
 }
 </style>
 
-![](images/arifur-rahman-J6MaRSBIkI4-unsplash.jpg){fig-align="center" width="60%"}
+<img src="images/arifur-rahman-J6MaRSBIkI4-unsplash.jpg" alt="Mother and child silhouette" style="display: block; margin: 0 auto; width: 60%;">
 
 <span class="credit-caption">_[Arifur Rahman](https://unsplash.com/@tuser08) on [Unsplash](https://unsplash.com/photos/a-silhouette-of-a-woman-holding-a-child-J6MaRSBIkI4)_</span>
 
