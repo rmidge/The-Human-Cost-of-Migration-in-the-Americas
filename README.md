@@ -34,7 +34,7 @@ All data analysis and visualization code is available in the [IOM_Data_Analysis_
 
 ## Viewing the Website
 
-The website is hosted on GitHub Pages and can be accessed at: [https://rmidge.github.io/The-Human-Cost-of-Migration-in-the-Americas/](https://rmidge.github.io/The-Human-Cost-of-Migration-in-the-Americas/)
+The website can be accessed at: [https://rmidge.github.io/The-Human-Cost-of-Migration-in-the-Americas/](https://rmidge.github.io/The-Human-Cost-of-Migration-in-the-Americas/)
 
 ## Data Sources
 
