@@ -53,6 +53,8 @@ bibliography: references.bib
 
 Through interactive maps, visualizations, and Alisa Domingo's personal story, this project reveals the scale and dangers of migration routes across the Americas. It explores why migrants risk these journeys, the legal barriers they face, and calls for urgent action to protect their dignity and lives.
 
+This project was completed as part of MUSA 6951: Communication in Urban Spatial Analytics at the University of Pennsylvania, under the guidance of Dr. Elizabeth Delmelle.
+
 ::: {.callout-note}
 **See the code:**  
 All data analysis and visualization code is available in the [IOM_Data_Analysis_Visuals.Rmd file](https://github.com/rmidge/The-Human-Cost-of-Migration-in-the-Americas/blob/main/IOM_Data_Analysis_Visuals.Rmd).
@@ -62,6 +64,6 @@ All data analysis and visualization code is available in the [IOM_Data_Analysis_
 This project draws on data from the Missing Migrants Project [@IOM2024] and incorporates reporting from El Tímpano's powerful first-person narratives [@domingo_loeza_2025]. Special thanks to all migrants and communities whose stories bring vital human context to this critical issue.
 
 ## About the author
-<div class="profile-container"> <img src="images/rachel.JPEG" alt="Rachel Midgett" class="profile-image"> <h2>Rachel Midgett</h2> <p>Master of Urban Spatial Analytics<br>University of Pennsylvania</p> <a href="https://github.com/rmidge" class="btn-link">GitHub Repository</a> </div>
+<div class="profile-container"> <img src="images/rachel.JPEG" alt="Rachel Midgett" class="profile-image"> <h2>Rachel Midgett</h2> <p>Master of Urban Spatial Analytics<br>University of Pennsylvania</p> <a href="https://github.com/rmidge/The-Human-Cost-of-Migration-in-the-Americas" class="btn-link">Project Repository</a> </div>
 
 ## References

@@ -19,7 +19,7 @@ bibliography: references.bib
 
 ---
 
-```{r setup, echo=TRUE, warning=FALSE, message=FALSE, show_col_types = FALSE}
+```{r setup, eval=FALSE, echo=TRUE, warning=FALSE, message=FALSE, show_col_types = FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 if (interactive()) {
   options(device = function() {
@@ -43,7 +43,7 @@ library(leaflet)
 library(htmlwidgets)
 ```
 
-```{r setup-data}
+```{r setup-data, eval=FALSE}
 # Load and process data
 all_data <- read_csv("./data/Missing_Migrants_Global_Figures_allData.csv")
 
@@ -75,7 +75,7 @@ focus_countries <- st_transform(focus_countries, 4326)
 combined_data <- st_join(americas_sf, focus_countries)
 ```
 
-```{r casualty-summary}
+```{r casualty-summary, eval=FALSE}
 # Create summary statistics
 casualty_summary <- americas_data %>%
   mutate(Year = year(`Incident Date`)) %>%
@@ -156,10 +156,10 @@ regional_plot <- ggplot(regional_summary, aes(x = reorder(`Region of Incident`, 
     legend.position = "none"
   )
 
-print(regional_plot)
+# print(regional_plot)  # Commented out to prevent output
 ```
 
-```{r interactive-map-incidents}
+```{r interactive-map-incidents, eval=FALSE}
 # Create an interactive map using leaflet
 leaflet_map <- leaflet(combined_data) %>%
   addTiles() %>%
@@ -187,13 +187,12 @@ leaflet_map <- leaflet(combined_data) %>%
     title = "Region of Incident"
   )
 
-# Save the widget
-saveWidget(leaflet_map, "map.html", selfcontained = TRUE)
-leaflet_map
+# Commented out to prevent output
+# saveWidget(leaflet_map, "map.html", selfcontained = TRUE)
+# leaflet_map
 ```
 
-
-```{r americas_summary}
+```{r americas_summary, eval=FALSE}
 yearly_region_data <- americas_data %>%
   mutate(Year = year(`Incident Date`)) %>%
   group_by(Year, `Region of Incident`) %>%
@@ -236,16 +235,12 @@ my_plot <- ggplot(yearly_region_data, aes(x = Year, y = Total, fill = `Region of
     legend.position = "none"
   )
 
-# Save the plot
+# Commented out to prevent output
 # ggsave("yearly_region_plot.png", my_plot, width = 8, height = 5, dpi = 300)
+# print(my_plot)
 ```
 
-```{r}
-my_plot
-```
-
-
-```{r journey-setup}
+```{r journey-setup, eval=FALSE}
 # Interactive Journey Map: typical migration path from Venezuela to the United States.
 # Create journey data
 journey_data <- data.frame(
@@ -302,13 +297,12 @@ for (path in gc_paths) {
     )
 }
 
-# Save the widget
+# Commented out to prevent output
 # saveWidget(journey_map, "journey_map.html", selfcontained = TRUE)
-journey_map
+# print(journey_map)
 ```
 
-
-```{r}
+```{r, eval=FALSE}
 # Create monthly data
 monthly_data <- americas_data %>%
   mutate(Month = floor_date(`Incident Date`, "month")) %>%
@@ -332,8 +326,7 @@ p <- ggplot(monthly_data, aes(x = Month, y = Total)) +
     axis.text = element_text(size = 10)
   )
 
-# Convert to interactive plot
-ggplotly(p)
-library(htmlwidgets)
+# Commented out to prevent output
+# ggplotly(p)
 # saveWidget(ggplotly(p), "images/monthly_deaths.html", selfcontained = TRUE)
 ```
