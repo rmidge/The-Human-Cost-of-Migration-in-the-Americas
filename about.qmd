@@ -55,7 +55,7 @@ Through interactive maps, visualizations, and Alisa Domingo's personal story, th
 
 ::: {.callout-note}
 **See the code:**  
-All data analysis and visualization code is available in the [IOM_Data_Analysis_Visuals.Rmd file](https://github.com/rmidge/deadly-crossings/blob/main/The%20Human%20Cost%20of%20Migration%20in%20the%20Americas/IOM_Data_Analysis_Visuals.Rmd).
+All data analysis and visualization code is available in the [IOM_Data_Analysis_Visuals.Rmd file](https://github.com/rmidge/The-Human-Cost-of-Migration-in-the-Americas/blob/main/IOM_Data_Analysis_Visuals.Rmd).
 :::
 
 ## Acknowledgments
